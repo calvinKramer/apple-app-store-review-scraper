@@ -1,0 +1,10 @@
+[
+  {
+    "reviewerName": "SampleUser",
+    "rating": 5,
+    "reviewTitle": "Sample Review",
+    "reviewText": "This is a sample review.",
+    "reviewDate": "2024-01-01",
+    "appUrl": "https://apps.apple.com/us/app/example-app/id123456789"
+  }
+]
